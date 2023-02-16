@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rharmdev
 - 👀 I’m interested in ... Python
 - 🌱 I’m currently learning ... Vue and Flutter
-- 💞️ I’m looking to collaborate on ...DS
+- 💞️ I’m looking to collaborate on ...Sports Analytics
 - 📫 How to reach me ... rharm#1377 on Discord
 
 <!---
